@@ -3,9 +3,9 @@
 
 For the task you must build an application with the proposed architecture and deploy it on AWS using EC2 and Docker.
 
-* 1. It must allow secure access from the browser to the application. In other words, it must guarantee user authentication, authorization and integrity.
-* 2. It must have at least two computers communicating with each other and remote services access must guarantee: authentication, authorization and integrity between the services. No one can invoke the services if they are not authorized.
-* 3. Explain how you would scale your security architecture to incorporate new services.
+* It must allow secure access from the browser to the application. In other words, it must guarantee user authentication, authorization and integrity.
+* It must have at least two computers communicating with each other and remote services access must guarantee: authentication, authorization and integrity between the services. No one can invoke the services if they are not authorized.
+* Explain how you would scale your security architecture to incorporate new services.
 
 # DESIGN
 
@@ -13,15 +13,15 @@ For the task you must build an application with the proposed architecture and de
 
 # STEP BY STEP
 
-* 1. Create non-secure web application.
-* 2. Create a key pair and generate the certificates.
-* 3. Adapt the application to use these generated certificates.
+* Create non-secure web application.
+* Create a key pair and generate the certificates.
+* Adapt the application to use these generated certificates.
 
 # DELIVERABLES
 
-* 1. Code on github.
-* 2. Security architecture of your prototype.
-* 3. Experiment video on AWS.
+* Code on github.
+* Security architecture of your prototype.
+* Experiment video on AWS.
 
 # START
 
