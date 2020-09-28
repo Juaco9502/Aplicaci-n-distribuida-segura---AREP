@@ -61,7 +61,6 @@ localhost:4567/inputdata
 
 * [Maven](https://maven.apache.org/) - Dependency Management
 * [JAVA JDK 8](http://www.oracle.com/technetwork/java/javase/overview/index.html) - Building
-* [Docker](https://www.docker.com/)
 * [Amazon Web Services](https://aws.amazon.com/es/education/awseducate/) - Amazon Educate
 * [Spark Framework](http://sparkjava.com/)
 
